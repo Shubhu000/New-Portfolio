@@ -78,7 +78,7 @@ export default function SectionQuote() {
         >
           This portfolio was crafted with deep care and intention, pouring
           passion and creativity into every element. It&apos;s more than just a
-          portfolio—it's a heartfelt expression of dedication and love.
+          portfolio—it&apos;s a heartfelt expression of dedication and love.
         </motion.p>
 
         {animatedFloatingImages.map((item, index) => (
