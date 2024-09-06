@@ -159,7 +159,10 @@ export default function SectionLetsConnect() {
               height={100}
               tabIndex={0}
               onClick={() =>
-                window.open('https://linkedin.com/in/deri-kurniawan', '_blank')
+                window.open(
+                  'https://www.linkedin.com/in/shubham-damania-1a1989209',
+                  '_blank',
+                )
               }
             />
             <AnimatedImage
@@ -173,7 +176,7 @@ export default function SectionLetsConnect() {
               height={100}
               tabIndex={0}
               onClick={() =>
-                window.open('https://dribbble.com/deri-kurniawan', '_blank')
+                window.open('https://x.com/DamaniaShubham', '_blank')
               }
             />
             <AnimatedImage
@@ -187,7 +190,10 @@ export default function SectionLetsConnect() {
               height={100}
               tabIndex={0}
               onClick={() =>
-                window.open('mailto:deri.netuchi@gmail.com', '_self')
+                window.open(
+                  'https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=shubhu.damania00@gmail.com&su=Subject%20Line&body=Email%20body%20text',
+                  '_self',
+                )
               }
             />
             <AnimatedImage
@@ -201,7 +207,10 @@ export default function SectionLetsConnect() {
               height={100}
               tabIndex={0}
               onClick={() =>
-                window.open('https://instagram.com/deri561', '_blank')
+                window.open(
+                  'https://www.instagram.com/shubham_damania0',
+                  '_blank',
+                )
               }
             />
             <AnimatedImage
@@ -215,7 +224,7 @@ export default function SectionLetsConnect() {
               height={100}
               tabIndex={0}
               onClick={() =>
-                window.open('https://github.com/deri-kurniawan', '_blank')
+                window.open('https://github.com/Shubhu000', '_blank')
               }
             />
           </div>
