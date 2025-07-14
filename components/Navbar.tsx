@@ -91,7 +91,7 @@ export default function Navbar(): JSX.Element {
             </ul> */}
             <a
               className="px-6 py-2 text-white gradient-btn rounded-xl"
-              href="https://drive.google.com/file/d/1Ecj48kq1PH80ZGgcbbj_gf3IeZLyYCkn/view?usp=sharing"
+              href="https://drive.google.com/file/d/1AxyABHNbtNHLqVimvdyA9ClF8Ee9TYM9/view?usp=sharing"
               //   download="Shubham Damania Resume"
               target="_blank"
             >

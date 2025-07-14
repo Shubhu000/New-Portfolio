@@ -30,7 +30,7 @@ export default function SectionLetsConnect() {
       tabIndex: 0,
       onClick: () =>
         window.open(
-          'https://www.linkedin.com/in/shubham-damania-1a1989209',
+          'https://www.linkedin.com/in/shubham-d-1a1989209/',
           '_blank',
         ),
     },
@@ -160,7 +160,7 @@ export default function SectionLetsConnect() {
               tabIndex={0}
               onClick={() =>
                 window.open(
-                  'https://www.linkedin.com/in/shubham-damania-1a1989209',
+                  'https://www.linkedin.com/in/shubham-d-1a1989209/',
                   '_blank',
                 )
               }
