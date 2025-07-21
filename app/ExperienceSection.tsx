@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
 'use client';
 
 import React from 'react';
@@ -45,7 +44,7 @@ export default function SectionExperience() {
           transition={{ duration: 0.7 }}
           className={`${styles.sectionDescription} max-w-[960px] mx-auto`}
         >
-          Take a look at something I've worked on
+          Take a look at something I&#39;ve worked on
         </motion.p>
       </div>
 
