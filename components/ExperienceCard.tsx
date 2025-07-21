@@ -1,6 +1,11 @@
 import { FiClock } from 'react-icons/fi';
 
-const ExperienceCard = ({ title, date }) => {
+type ExperienceCardProps = {
+  title: string;
+  date: string;
+};
+
+const ExperienceCard: React.FC<ExperienceCardProps> = ({ title, date }) => {
   return (
     <div
       className="p-6 rounded-xl transition-all duration-300 
