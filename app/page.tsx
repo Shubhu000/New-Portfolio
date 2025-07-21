@@ -1,4 +1,5 @@
 import Footer from '../components/Footer';
+import SectionExperience from './ExperienceSection';
 import SectionHero from './SectionHero';
 import SectionLetsConnect from './SectionLetsConnect';
 import SectionMyLatestProject from './SectionMyLatestProject';
@@ -10,7 +11,7 @@ export default function Home() {
     <div className="safe-layout">
       <SectionHero />
       <SectionTechnologyStack />
-      {/* <SectionMyLatestProject /> */}
+      <SectionExperience />
       <SectionLetsConnect />
       <SectionQuote />
       {/* <Footer /> */}
