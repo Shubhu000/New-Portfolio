@@ -26,6 +26,8 @@ export const assets = {
       projects: {
         portfolioWebsite: require('@images/home/myLatestProject/projects/portfolio-website.webp'),
       },
+      yliway: require('@images/home/myLatestProject/yliway.png'),
+      stembotix: require('@images/home/myLatestProject/stembotix.png'),
     },
     quote: {
       bulb: require('@images/home/quote/bulb.webp'),
@@ -53,4 +55,7 @@ export const assets = {
       aws: require('@images/home/technologyStack/aws.png'),
     },
   },
+  // project: {
+  //   yliway: require('@images/projects/yliway.png'),
+  // },
 };
