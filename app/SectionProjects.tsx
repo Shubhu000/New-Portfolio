@@ -28,6 +28,21 @@ const projects = [
     techStack: ['Next.js', 'Node.js', 'PostgreSQL', 'AWS EC2'],
     role: 'As a Team Lead, I led a team of 10 developers. My primary responsibilities included reviewing pull requests, ensuring code quality, and independently handling production deployments to AWS EC2.',
   },
+  {
+    title: 'Weather Outfit Advisor',
+    imageSrc: assets.home.myLatestProject.weather,
+    githubLink: 'https://github.com/Shubhu000/weather-outfit-recommender',
+    previewLink: '', // no live preview
+    description:
+      'A Next.js + Tailwind app using OpenWeatherMap APIs. Search any city, then view a detail card with current temperature, feels-like, wind, humidity, and a smart outfit tip based on weather, wind, and humidity.',
+    techStack: [
+      'Next.js (App Router)',
+      'Tailwind CSS',
+      'OpenWeatherMap API',
+      'Framer Motion',
+    ],
+    role: 'Solo project: built city search, detail card, API integration (metric units), and an outfit rule engine that adapts to temperature, rain, wind, and humidity.',
+  },
 ];
 
 export default function SectionProjects() {

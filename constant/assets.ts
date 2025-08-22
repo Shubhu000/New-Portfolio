@@ -28,6 +28,7 @@ export const assets = {
       },
       yliway: require('@images/home/myLatestProject/yliway.png'),
       stembotix: require('@images/home/myLatestProject/stembotix.png'),
+      weather: require('@images/home/myLatestProject/weather.png'),
     },
     quote: {
       bulb: require('@images/home/quote/bulb.webp'),
